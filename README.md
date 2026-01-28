@@ -18,3 +18,6 @@ git clone https://github.com/dnyaneshwariKanse-art/rag-based-qa-system.git
 cd rag-based-qa-system
 pip install -r requirements.txt
 uvicorn app.main:app --reload
+## 📐 Architecture Diagram
+
+![RAG Architecture](docs/architecture.png)
